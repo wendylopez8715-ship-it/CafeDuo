@@ -31,4 +31,4 @@ class OrderCollection {
   }
 }
 
-module.exports = OrderCollection;
+export default OrderCollection;
